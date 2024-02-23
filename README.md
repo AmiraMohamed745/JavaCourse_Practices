@@ -1,6 +1,6 @@
 # JavaCourse_Practices
 
-This is a colletion of the code practices I have written during the Core Java course on Udemy.
+This is a collection of the code practices I have written during the Core Java course on Udemy.
 
 Course URL: https://www.udemy.com/course/corejavamadeeasy/ 
 
